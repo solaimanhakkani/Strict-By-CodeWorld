@@ -10,8 +10,7 @@ body {
 /* Common CSS Ends */
 
 /* Header Section Starts */
-header.header {
-    border: 1px solid;
+header.header {    
     background: #f6f9f9;
     min-height: 3%;    
 }
@@ -25,8 +24,7 @@ div.wrapper {
 div.logo-content {
     padding: 10px 0;
     float: left;
-    width: 12%;
-    border: 1px solid;
+    width: 12%;    
     text-align: center;
 }
 
